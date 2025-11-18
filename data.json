@@ -4,17 +4,17 @@
     "stream_channel": "shyjukya",
     "stream_title": "stream title",
     "references": [
-      {
-        "folder": "a",
-        "title": "Portrait",
-        "description": "i am a short description"
-        "price": "50$"
-      },
-      {
-        "folder": "b",
-        "title": "Not Portrait",
-        "description": "i am a long description"
-        "price": "25$"
-      }
+        {
+            "folder": "a",
+            "title": "Portrait",
+            "description": "i am a short description",
+            "price": "50$"
+        },
+        {
+            "folder": "b",
+            "title": "Not Portrait",
+            "description": "i am a long description",
+            "price": "25$"
+        }
     ]
 }
